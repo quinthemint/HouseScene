@@ -4,5 +4,5 @@ void setup(){
 
 
 void draw(){
-
+  background(45, 211, 250);
 }
